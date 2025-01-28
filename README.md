@@ -1,6 +1,5 @@
 <div id="header" align="center">
-<h1>Hi there, I'm Roman Kartashev</h1>
-<h3>Game Devoloper from Kazan</h3>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <!--
 **romashka-digital/romashka-digital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
